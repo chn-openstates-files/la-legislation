@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rules suspended.  Introduced in the Senate; read by title.  Rules suspended.  Read second time by title and adopted by vote of 24 yeas and 9 nays.",
+    "date": "2025-10-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR1"
+}

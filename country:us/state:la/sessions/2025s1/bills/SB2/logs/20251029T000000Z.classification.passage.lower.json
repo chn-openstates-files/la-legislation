@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read third time by title, roll called on final passage, yeas 73, nays 28. Finally passed, ordered to the Senate.",
+    "date": "2025-10-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2"
+}
