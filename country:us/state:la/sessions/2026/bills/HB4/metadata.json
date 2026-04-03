@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-la-2026-hb4"
+    }
+  ],
   "actions": [
     {
       "description": "Under the rules, provisionally referred to the Committee on House and Governmental Affairs.",
@@ -17,18 +21,6 @@
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-14T13:03:25Z"
-      }
-    },
-    {
-      "description": "Prefiled.",
-      "date": "2026-01-12",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "filing"
       ],
       "related_entities": [],
       "_processing": {
@@ -88,6 +80,6 @@
     "division_id": "ocd-division/country:us/state:la"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:03:25Z"
+    "logs_latest_update": "2026-04-03T13:21:11Z"
   }
 }
